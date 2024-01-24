@@ -1,0 +1,6 @@
+# 自定义直连
+DOMAIN-KEYWORD,beijing
+DOMAIN-KEYWORD,shanghai
+DOMAIN-KEYWORD,guangzhou
+DOMAIN-KEYWORD,shenzhen
+DOMAIN-SUFFIX,myqcloud.com
