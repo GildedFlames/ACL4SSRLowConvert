@@ -8,24 +8,27 @@ DOMAIN-SUFFIX,sa.shanbay.com
 
 #  meituan
 DOMAIN-SUFFIX,beauty-tx-flv.meituan.net
+DOMAIN-SUFFIX,img.meituan.net
+DOMAIN-SUFFIX,mrn.meituan.net
+DOMAIN-SUFFIX,mrn-quic.meituan.net
+DOMAIN-SUFFIX,ddplus.meituan.net
+DOMAIN-SUFFIX,grocery-mtapp.meituan.com
+DOMAIN-SUFFIX,hlx.meituan.com
+DOMAIN-SUFFIX,g.meituan.com
+DOMAIN-SUFFIX,catdot.dianping.com
+DOMAIN-SUFFIX,catfront.dianping.com
+DOMAIN-SUFFIX,medusa.dianping.com
 DOMAIN-SUFFIX,mlvbdc.live.qcloud.com
 DOMAIN-SUFFIX,p0.pipi.cn
 DOMAIN-SUFFIX,open.kuaishouzt.com
 DOMAIN-SUFFIX,cloudvideocdn.taobao.com
-DOMAIN-SUFFIX,mrn.meituan.net
-DOMAIN-SUFFIX,mrn-quic.meituan.net
-DOMAIN-SUFFIX,grocery-mtapp.meituan.com
-DOMAIN-SUFFIX,g.meituan.com
 DOMAIN-SUFFIX,file.neixin.cn
-DOMAIN-SUFFIX,catfront.dianping.com
-DOMAIN-SUFFIX,ddplus.meituan.net
-DOMAIN-SUFFIX,medusa.dianping.com
 
 #  meituan - video
-DOMAIN-SUFFIX,live-monitor-broker.sankuai.com
 DOMAIN-SUFFIX,mlive.meituan.com
 DOMAIN-SUFFIX,beauty-tx-hls.meituan.net
 DOMAIN-SUFFIX,beauty-js-flv.meituan.net
+DOMAIN-SUFFIX,live-monitor-broker.sankuai.com
 
 #  meituan - log
 DOMAIN-SUFFIX,lx0.meituan.com
@@ -68,6 +71,7 @@ DOMAIN-SUFFIX,applog-bd.feishu.cn
 DOMAIN-SUFFIX,device-bd.feishu.cn
 DOMAIN-SUFFIX,mcs-bd.feishu.cn
 DOMAIN-SUFFIX,slardar-bd.feishu.cn
+DOMAIN-SUFFIX,mon.zijieapi.com
 
 # taobao
 DOMAIN-SUFFIX,meta.m.taobao.com
@@ -77,6 +81,7 @@ DOMAIN-SUFFIX,dinamicx.alibabausercontent.com
 DOMAIN-SUFFIX,d3g.qq.com
 DOMAIN-SUFFIX,data.ab.qq.com
 DOMAIN-SUFFIX,mmbiz.qpic.cn
+DOMAIN-SUFFIX,mmbiz.qlogo.cn
 DOMAIN-SUFFIX,i.gtimg.cn
 DOMAIN-SUFFIX,p.l.qq.com
 DOMAIN-SUFFIX,wuji.video.qq.com
@@ -89,7 +94,11 @@ DOMAIN-SUFFIX,adapi.pandabus.cn
 DOMAIN-SUFFIX,adservice.sigmob.cn
 DOMAIN-SUFFIX,carboncdn.bestonepay.com
 DOMAIN-SUFFIX,mazu.m.qq.com
+DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
 DOMAIN-SUFFIX,ali-stats.jpush.cn
 DOMAIN-SUFFIX,report-stats.ad.jiguang.cn
 DOMAIN-SUFFIX,gateway.lcago.cn
+DOMAIN-SUFFIX,ulogs.umeng.com
+DOMAIN-SUFFIX,errnewlog.umeng.com
+DOMAIN-SUFFIX,umini.shujupie.com
