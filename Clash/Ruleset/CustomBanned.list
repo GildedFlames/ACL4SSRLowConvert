@@ -85,6 +85,14 @@ DOMAIN-SUFFIX,p.l.qq.com
 DOMAIN-SUFFIX,wuji.video.qq.com
 DOMAIN-SUFFIX,connc.gj.qq.com
 
+# chelaile
+DOMAIN-SUFFIX,wxsmw.wxs.qq.com
+DOMAIN-SUFFIX,wxa.wxs.qq.com
+DOMAIN-SUFFIX,wximg.wxs.qq.com
+DOMAIN-SUFFIX,h5.gdt.qq.com
+DOMAIN-SUFFIX,pgdt.gtimg.cn
+DOMAIN-SUFFIX,logs.chelaile.net.cn
+
 # metro
 DOMAIN-SUFFIX,appcdn.qd-metro.com
 DOMAIN-SUFFIX,adashbc.ut.taobao.com
