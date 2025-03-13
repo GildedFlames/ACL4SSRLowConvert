@@ -108,3 +108,11 @@ DOMAIN-SUFFIX,gateway.lcago.cn
 DOMAIN-SUFFIX,ulogs.umeng.com
 DOMAIN-SUFFIX,errnewlog.umeng.com
 DOMAIN-SUFFIX,umini.shujupie.com
+
+# pinduoduo
+DOMAIN-SUFFIX,apm-a.pinduoduo.com
+DOMAIN-SUFFIX,apm.pinduoduo.com
+DOMAIN-SUFFIX,commimg-2.pddpic.com
+
+# bilibili
+DOMAIN-SUFFIX,mall.bilibili.com
