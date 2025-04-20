@@ -116,3 +116,11 @@ DOMAIN-SUFFIX,commimg-2.pddpic.com
 
 # bilibili
 DOMAIN-SUFFIX,mall.bilibili.com
+
+# mihoyo
+DOMAIN-SUFFIX,apm-log-upload-v6.mihoyo.com
+DOMAIN-SUFFIX,ys-log-upload.mihoyo.com
+DOMAIN-SUFFIX,sdk-log-upload.mihoyo.com
+DOMAIN-SUFFIX,log-upload.mihoyo.com
+DOMAIN-SUFFIX,uspider.yuanshen.com
+DOMAIN-SUFFIX,h5log-api-dualstack.mihoyo.com
