@@ -76,6 +76,7 @@ DOMAIN-SUFFIX,mon.zijieapi.com
 # taobao
 DOMAIN-SUFFIX,meta.m.taobao.com
 DOMAIN-SUFFIX,dinamicx.alibabausercontent.com
+DOMAIN-SUFFIX,acs4baichuan.m.taobao.com
 
 # QQ
 DOMAIN-SUFFIX,d3g.qq.com
@@ -105,9 +106,11 @@ DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
 DOMAIN-SUFFIX,ali-stats.jpush.cn
 DOMAIN-SUFFIX,report-stats.ad.jiguang.cn
 DOMAIN-SUFFIX,gateway.lcago.cn
-DOMAIN-SUFFIX,ulogs.umeng.com
-DOMAIN-SUFFIX,errnewlog.umeng.com
-DOMAIN-SUFFIX,umini.shujupie.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,shujupie.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,baichuan.taobao.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
 
 # pinduoduo
 DOMAIN-SUFFIX,apm-a.pinduoduo.com
