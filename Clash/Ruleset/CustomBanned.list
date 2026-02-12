@@ -29,6 +29,8 @@ DOMAIN-SUFFIX,mlive.meituan.com
 DOMAIN-SUFFIX,beauty-tx-hls.meituan.net
 DOMAIN-SUFFIX,beauty-js-flv.meituan.net
 DOMAIN-SUFFIX,live-monitor-broker.sankuai.com
+DOMAIN-SUFFIX,live.meituan.com
+DOMAIN-SUFFIX,mlive.meituan.com
 
 #  meituan - log
 DOMAIN-SUFFIX,lx0.meituan.com
@@ -72,11 +74,15 @@ DOMAIN-SUFFIX,device-bd.feishu.cn
 DOMAIN-SUFFIX,mcs-bd.feishu.cn
 DOMAIN-SUFFIX,slardar-bd.feishu.cn
 DOMAIN-SUFFIX,mon.zijieapi.com
+DOMAIN-SUFFIX,abtest-bd.feishu.cn
+DOMAIN-SUFFIX,api.feelgood.cn
 
 # taobao
 DOMAIN-SUFFIX,meta.m.taobao.com
 DOMAIN-SUFFIX,dinamicx.alibabausercontent.com
 DOMAIN-SUFFIX,acs4baichuan.m.taobao.com
+DOMAIN-SUFFIX,live.taobao.com
+DOMAIN-SUFFIX,livestream.taobao.com
 
 # QQ
 DOMAIN-SUFFIX,d3g.qq.com
@@ -93,6 +99,10 @@ DOMAIN-SUFFIX,wximg.wxs.qq.com
 DOMAIN-SUFFIX,h5.gdt.qq.com
 DOMAIN-SUFFIX,pgdt.gtimg.cn
 DOMAIN-SUFFIX,logs.chelaile.net.cn
+DOMAIN-SUFFIX,bjxuejing.cn
+DOMAIN-SUFFIX,ad.chelaile.net.cn
+DOMAIN-SUFFIX,image.chelaile.net.cn
+DOMAIN-SUFFIX,atrace.chelaile.net.cn
 
 # metro
 DOMAIN-SUFFIX,appcdn.qd-metro.com
