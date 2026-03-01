@@ -6,6 +6,7 @@ DOMAIN-KEYWORD,shenzhen
 DOMAIN-KEYWORD,koreavisa
 DOMAIN-SUFFIX,overseas.mofa.go.kr
 DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,cas-bridge.xethub.hf.co
 IP-CIDR,95.84.25.50/11,no-resolve
 IP-CIDR,2.60.232.174/11,no-resolve
 IP-CIDR,92.37.132.50/11,no-resolve
